@@ -1,0 +1,3 @@
+[submodule "LN2D-Libraries"]
+	path = LN2D-Libraries
+	url = https://github.com/yulan6248/LN2D-Libraries
