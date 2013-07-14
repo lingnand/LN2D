@@ -17,7 +17,7 @@ Install
 
     ~~~sh
     mkdir -p ~/Developer/LN2D
-    cd ~/Developer/LN2D
+    cd ~/Developer
     git clone --recursive https://github.com/yulan6248/LN2D
     ~~~
 
